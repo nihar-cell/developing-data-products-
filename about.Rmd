@@ -27,6 +27,4 @@ Source code for ui.R and server.R files are available on the GitHub repo: https:
   
 Thank you, and enjoy using this service.  
 
-## Customer service  
-Any comments?,  
-please send it to [Carlos](carlosbarcoblanco@icloud.com)
+
