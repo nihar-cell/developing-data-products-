@@ -1,11 +1,5 @@
----
-title: "The most adecuate Car for your trip"
-author: "Carlos Barco"
-date: "9/28/2017"
-output:
-  slidy_presentation: default
-  ioslides_presentation: default
----
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
